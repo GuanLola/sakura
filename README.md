@@ -4,4 +4,4 @@
 
 用canvas画布 和 浏览器动画控制函数window.requestAnimationFrame 绘画
 
-![image]()
+![image](https://github.com/GuanLola/sakura/blob/master/images/drawing.gif)
